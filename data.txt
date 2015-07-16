@@ -29,4 +29,4 @@ computer$user=0
 ################## MAC
 
 98:F1:70:8B:9D:0D=poop0 eli
-d0:51:62:e6:ed:bb=poop3 david
+d0:51:62:e6:ed:bb=poop1 david
